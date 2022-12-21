@@ -1,0 +1,8 @@
+C:\Users\kevin.raymundo\source\repos\CalcutorSimple1\bin\Debug\CalcutorSimple1.exe.config
+C:\Users\kevin.raymundo\source\repos\CalcutorSimple1\bin\Debug\CalcutorSimple1.exe
+C:\Users\kevin.raymundo\source\repos\CalcutorSimple1\bin\Debug\CalcutorSimple1.pdb
+C:\Users\kevin.raymundo\source\repos\CalcutorSimple1\obj\Debug\CalcutorSimple1.csproj.AssemblyReference.cache
+C:\Users\kevin.raymundo\source\repos\CalcutorSimple1\obj\Debug\CalcutorSimple1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kevin.raymundo\source\repos\CalcutorSimple1\obj\Debug\CalcutorSimple1.csproj.CoreCompileInputs.cache
+C:\Users\kevin.raymundo\source\repos\CalcutorSimple1\obj\Debug\CalcutorSimple1.exe
+C:\Users\kevin.raymundo\source\repos\CalcutorSimple1\obj\Debug\CalcutorSimple1.pdb
